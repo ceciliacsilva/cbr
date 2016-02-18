@@ -31,13 +31,13 @@ $ cd micro
 
 $ sbcl
 
-* (ql:quickload :hunchentoot)
+ * (ql:quickload :hunchentoot)
 
-* (ql:quickload :hunchentoot-test)
+ * (ql:quickload :hunchentoot-test)
 
-* (hunchentoot:start (make-instance 'hunchentoot:easy-acceptor :port 4242))
+ * (hunchentoot:start (make-instance 'hunchentoot:easy-acceptor :port 4242))
 
-* (load "paginaComando.lisp")
+ * (load "paginaComando.lisp")
 
 Acesse o seguinte endereço no browser: http://localhost:4242/micro
 
