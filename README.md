@@ -40,3 +40,16 @@ $ sbcl
 * (load "paginaComando.lisp")
 
 Acesse o seguinte endereço no browser: http://localhost:4242/micro
+
+Tutoriais e páginas úteis:
+
+Ômegaflix, site dedicado a programação de sistemas embarcados: http://www.omegaflix.com/
+
+Apostilas para iniciantes em BeagleBone, programas em C: https://mega.nz/#F!Fl0RXQiQ!zOsTMBc-oZv_NI0pwTQoFQ
+
+Inspiração para a criação do modelo do braço em forma de gráfico: http://robotic-controls.com/book/export/html/39
+
+Tutoriais sobre programação Web em Common Lisp: http://www.adamtornhill.com/articles/lispweb.htm
+                                                https://common-lisp.net/project/parenscript/tutorial.html
+                                                
+
